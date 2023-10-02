@@ -5,6 +5,8 @@
 Here you will find detailed analytics by week | Category of targeted incentive | Planned usage | Actual usage | Links to onchain contracts | Links to onchain transactions
 ---
 
+## [Dune Analytics Dashboard](https://dune.com/nftearth/arb-incentive-analytics)
+
 ### Assuming a campaign period of 16 weeks and an ARB allocation total of 195,000, distributed over 16 weeks, this is 12,187.5 ARB tokens to be distributed/week across the different key areas for targeted growth on Arbitrum. Visually broken down below.
 
 | Week | ARB Allocation | % Used Of Total Incentive ARB Allocation (195,000)
